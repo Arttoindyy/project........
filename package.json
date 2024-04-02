@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docker": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node_module": "^0.0.0",
+    "node-module": "^2.0.0",
+    "package": "^1.0.1",
+    "sequelize": "^6.37.2",
+    "throw": "^1.1.1"
+  }
+}
